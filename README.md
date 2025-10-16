@@ -1,0 +1,1 @@
+# Taller1_corte2_IA
