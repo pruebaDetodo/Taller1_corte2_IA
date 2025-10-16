@@ -1,4 +1,3 @@
-# Taller1_corte2_IA
 # Taller 1 del corte 2, INTELIGENCIA ARTIFICIAL.
 # Integrantes
 - Duvan Andrez Cardona Alomias
